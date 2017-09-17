@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: http://a1.qpic.cn/psb?/62469739/FiPwDeU4ZhcyW0emCXEW1CUFrpDT5OGSDih8eEsYCOM!/b/dOcAAAAAAAAA&bo=gAKAAgAAAAABACc!&rf=viewer_4
 
 #是否开启分享
 share_jia: true
